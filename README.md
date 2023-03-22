@@ -18,6 +18,11 @@ Hello everyone, I wanted to let you all know that I have started a tutorial cour
 - We discussed about pageLoadTimeout and scriptTimeout in Selenium, which are used to set the maximum time allowed for a web page to load and for a script to execute, respectively. We also covered FluentWait in Selenium, which is a more flexible way to implement synchronization.We discussed exceptions in WebDriver, which are thrown when something goes wrong during the execution of a test script. We covered some of the commonly encountered exceptions, such as ElementNotVisibleException and NoSuchElementException, and demonstrated how to handle them using try-catch blocks.
 - We discussed about Chrome Options & Desired Capabilities in Selenium WebDriver, which are used to customize the behavior of the Chrome browser during test automation. We demonstrated how to set options such as headless mode and disable-infobars.Finally, we covered how to handle cookies in Selenium WebDriver, which is used to manage user sessions and authentication. We demonstrated how to add, delete, and retrieve cookies using WebDriver commands.
 
+### _Summary of Session-4_,
+- We discussed the differences between Selenium 3 and Selenium 4. We looked at the changes in the architecture, capabilities, and the utility methods for finding elements in Java. We also talked about the modifications made to the Actions class, waits and timeout features, and the new features introduced in Selenium 4.
+- We also talked about one of the significant changes in Selenium 4 is the introduction of Object Location and Relative Locators. These features allow you to locate elements easily and perform actions on them. Additionally, we talked about Chrome Dev tools, which can be used to debug and inspect web pages.
+- Another topic we covered was the capture screenshot of specific web element. With Selenium 4, you can take screenshots of specific web elements rather than the entire page. We also discussed how to open a new tab or window in the browser using Selenium 4.
+
 
 
 
