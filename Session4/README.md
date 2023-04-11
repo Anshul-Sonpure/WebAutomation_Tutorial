@@ -1,0 +1,4 @@
+### _Summary of Session-4_,
+- We discussed the differences between Selenium 3 and Selenium 4. We looked at the changes in the architecture, capabilities, and the utility methods for finding elements in Java. We also talked about the modifications made to the Actions class, waits and timeout features, and the new features introduced in Selenium 4.
+- We also talked about one of the significant changes in Selenium 4 is the introduction of Object Location and Relative Locators. These features allow you to locate elements easily and perform actions on them. Additionally, we talked about Chrome Dev tools, which can be used to debug and inspect web pages.
+- Another topic we covered was the capture screenshot of specific web element. With Selenium 4, you can take screenshots of specific web elements rather than the entire page. We also discussed how to open a new tab or window in the browser using Selenium 4.
