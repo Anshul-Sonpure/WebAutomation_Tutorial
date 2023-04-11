@@ -24,3 +24,21 @@ Overall, we have tried to cover most of the important topics in Selenium that ar
 - We discussed the differences between Selenium 3 and Selenium 4. We looked at the changes in the architecture, capabilities, and the utility methods for finding elements in Java. We also talked about the modifications made to the Actions class, waits and timeout features, and the new features introduced in Selenium 4.
 - We also talked about one of the significant changes in Selenium 4 is the introduction of Object Location and Relative Locators. These features allow you to locate elements easily and perform actions on them. Additionally, we talked about Chrome Dev tools, which can be used to debug and inspect web pages.
 - Another topic we covered was the capture screenshot of specific web element. With Selenium 4, you can take screenshots of specific web elements rather than the entire page. We also discussed how to open a new tab or window in the browser using Selenium 4.
+
+### _Summary of Session-5_,
+- Working with checkboxes and radio buttons: We learned how to locate and interact with checkboxes and radio buttons using Selenium.
+- Handling images: We explored how to locate and interact with images on a webpage using Selenium.
+- Action class: We discussed the use of the Action class in Selenium to perform complex actions on a webpage, such as click-and-hold or drag-and-drop.
+- Select class: We covered how to use the Select class in Selenium to handle dropdowns and select options from them.
+- Robot class: We learned about the Robot class in Selenium, which can be used to simulate keyboard and mouse events on a webpage.
+- Alert in Selenium: We covered how to handle alerts and pop-ups using Selenium.
+- Handling web tables: We explored how to locate and interact with web tables on a webpage using Selenium.
+Overall, our sessions aimed to provide a comprehensive understanding of Selenium and its various capabilities, enabling learners to effectively automate web testing tasks.
+
+### _Summary of Session-6_,
+- Apache POI in Selenium: We discussed how to use the Apache POI library to read and write data to Excel files in Selenium code.
+- JavascriptExecutor in Selenium: We explained how to use the JavascriptExecutor interface to execute Javascript code on a web page using Selenium WebDriver.
+- Take Screenshot in Selenium WebDriver: We explored how to capture screenshots of web pages in Selenium code using the TakesScreenshot interface.
+- Handle iframe in Selenium: We learned how to handle iframes (or inline frames) in Selenium WebDriver by switching to and from them using the switchTo() method.
+- Handle SSL Certificate in Selenium: We discussed how to handle SSL certificate errors in Selenium code.
+- Selenium Grid: We covered the basics of Selenium Grid and how to set it up for distributed testing.
