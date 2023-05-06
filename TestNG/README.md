@@ -22,3 +22,12 @@ Including and Excluding TestNG test cases: We learned how to use the <include> a
 - Groups in TestNG: We learned how to group test cases using the @Test(groups) annotation and execute them based on the specified group.
 - Dependencies in TestNG: We discussed how to use the dependsOnGroups and dependsOnMethods attributes to specify dependencies between test cases.
 - Exceptions in TestNG: We learned how to handle exceptions in TestNG using the expectedExceptions and expectedExceptionsMessageRegExp attributes. We also discussed how to use the @Test(expectedExceptions) annotation to catch specific exceptions in test cases.
+  
+  
+  # _Session 3:_
+
+- We started by discussing TestNG listeners and how they can be used to perform actions before or after a test case or suite. Then, we moved on to explore the different parameters that can be used in TestNG and how they affect the behavior of the test cases.
+- Next, we talked about data providers in TestNG and how they can be used to provide test data to test cases. We also discussed parallel execution in TestNG and how it can be used to speed up test execution.
+- After that, we delved into assertions in TestNG and the different types of assert statements that can be used to verify expected results. We also talked about IRetryAnalyser in TestNG, which can be used to retry failed test cases.
+- Moving on, we explored TestNG reports and how they can be generated to provide detailed information about the test execution. Finally, we discussed re-running failed test cases using failedTestng.xml and how it can be used to rerun only the failed test cases.
+Overall, our discussions covered a wide range of topics related to TestNG and how it can be used to write efficient and reliable automated test cases.
